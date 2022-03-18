@@ -2,7 +2,7 @@
 
 ## BIENVENIDOS A FIX SISTEMA RN 
 
-You can use the [editor on GitHub](https://github.com/FIX-SISTEMA-RN/FIX-SISTEMA-RN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Te proporcionamos un servicio al tener algun problema,ya sea este el hardware o software de tu computadora de un servidor internet,perifericos,articulos electronicos,etc.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
