@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
+
+## BIENVENIDOS A FIX SISTEMA RN 
 
 You can use the [editor on GitHub](https://github.com/FIX-SISTEMA-RN/FIX-SISTEMA-RN.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
