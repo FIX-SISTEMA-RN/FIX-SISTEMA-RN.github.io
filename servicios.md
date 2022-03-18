@@ -6,6 +6,7 @@
 
 *Equipo de computo
 
+
 *Programas - Aplicaciones
 
 *Redes
