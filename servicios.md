@@ -3,8 +3,11 @@
 ## SERVICIOS
 
 > MANTENIMIENTO PREVENTIVO: Conservación de equipos o instalaciones mediante la realización de revisión y limpieza que garanticen su buen funcionamiento y fiabilidad.
+> 
 > MANTENIMIENTO CORRETIVO: Corrige los defectos observados en los equipamientos o instalaciones, es la forma más básica de mantenimiento y consiste en localizar averías o defectos para corregirlos o repararlos.
+> 
 > MANTENIMIENTO DISTANCIA: El mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde nosotros solucionamos los problemas que presenta el servidor, la pc o notebook.
+> 
 > MANTENIMIENTO PRESENCIAL: Evitarle al cliente gastos a largo plazo, además de aumentar la eficiencia de los procesos operativos. Cuanto más temprano se haga el diagnóstico de un problema, mejor.
 
 *Soporte Tecnico: Ayudar a los usuarios para que puedan resolver ciertos problemas.
