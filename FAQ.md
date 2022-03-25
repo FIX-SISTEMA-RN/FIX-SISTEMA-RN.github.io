@@ -100,14 +100,6 @@
 
 > 5.-603 Las configuraciones del búfer (espacio disponible en el equipo para acceder al módem) son demasiado pequeñas. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
 
-**_17°¿Cuándo debes cambiar componentes de una pc?_**
-
-> Si tu CPU tiene una antigüedad mayor a tres años no la actualices, porque no compensa. Mejor ahorra y actualiza el ordenador al completo, ya que aunque adquiras un equipo muy básico ofrecerá un rendimiento por encima del que tienes actualmente.
-
-> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo básico – por ejemplo AMD Athlon II de entrada o Intel Core i3 – puede ser interesante aprovechar la placa para añadirle un nuevo microprocesador de segunda mano.
-
-> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo de gama media o alta – AMD Phenom II o Intel Core i5 o i7 – lo más probable es que no necesites una actualización de la CPU, ya que todos estos modelos se comportan excelentemente
-
 **_18°¿Qué se debe actualizar y/o cambiar en una pc?_**
 
 > Microprocesador
@@ -207,4 +199,12 @@
 **_32°¿La temida pantalla azul?_**
 
 > Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
+
+**_33°¿Cuándo debes cambiar componentes de una pc?_**
+
+> Si tu CPU tiene una antigüedad mayor a tres años no la actualices, porque no compensa. Mejor ahorra y actualiza el ordenador al completo, ya que aunque adquiras un equipo muy básico ofrecerá un rendimiento por encima del que tienes actualmente.
+
+> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo básico – por ejemplo AMD Athlon II de entrada o Intel Core i3 – puede ser interesante aprovechar la placa para añadirle un nuevo microprocesador de segunda mano.
+
+> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo de gama media o alta – AMD Phenom II o Intel Core i5 o i7 – lo más probable es que no necesites una actualización de la CPU, ya que todos estos modelos se comportan excelentemente
 
