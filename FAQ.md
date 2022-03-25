@@ -60,7 +60,7 @@
 
 > Asegúrate que el cable no se halla soltado de la tarjeta madre.
 
-**_11°¿La impresora no imprime?
+**_11°¿La impresora no imprime?_**
 
 > Controladores; Si la impresora que estás utilizando no está configurada como "impresora predeterminada" o el controlador no está instalado, la impresora puede imprimir caracteres distorsionados.
 
@@ -148,11 +148,11 @@
 
 > descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
 
-**_21°¿SI hace ruidos extraños la pc?
+**_21°¿SI hace ruidos extraños la pc?_**
 
 > Te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
 
-**_22°¿Como actualizar el sistema operativo?
+**_22°¿Como actualizar el sistema operativo?_**
 
 > La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
 
