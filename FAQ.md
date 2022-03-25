@@ -76,11 +76,11 @@
 
 > No aparece la imagen. Revisa que la pantalla esté encendida, los cables estén conectados y la configuración de brillo y contraste esté correcta. 
 
-**_15°¿El mause no respone?_**
+**_15°¿El mouse no respone?_**
 
 > Si no aparece el Mouse en la pantalla o tiene problemas de desplazamiento, ve a INICIO / CONFIGURACION / PANEL DE CONTROL / MOUSE. Los indicadores que aparecen a lo largo de la ventana del Mouse te permitirán controlar las funciones del Mouse. 
 
-**_16°¿Cuáles son el proceso para solucionar un problema?_**
+**_16°¿Cuál es el proceso para solucionar un problema?_**
 
 > 1 Análisis del Problema. En la fase de análisis en el proceso de programación se determina que hace el programa. Esta fase requiere una clara definición donde se contemple exactamente lo que debe hacer el programa y el resultado o solución deseada. Dado que se busca una solución se precisan especificaciones de entrada y salida.
 
@@ -144,7 +144,7 @@
 
 > Reinstalar programa o aplicación
 
-**_20°¿Que hacer si el orenador va lento?_**
+**_20°¿Que hacer si el PC va lento?_**
 
 > descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
 
