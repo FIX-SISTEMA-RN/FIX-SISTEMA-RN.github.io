@@ -36,11 +36,11 @@
 
 > Una mala actualizacion
 
-**_5°¿Que programas se sugieren para dar el mantenimiento correctivo al software? **
+**_5°¿Que programas se sugieren para dar el mantenimiento correctivo al software?_**
 
 > Instalar un antivirus, Limpieza y optimización del sistema, Restauración del sistema y formateo e instalación de una nueva copia de Windows.}
 
-**_5°¿Que hacer si mi dico duro esta lento?_**
+**_6°¿Que hacer si mi dico duro esta lento?_**
 
 > Dos utilerías que pueden ayudarte a maximizar el rendimiento del disco duro son Norton ScanDisk y el desfragmentador Norton, ambas son herramientas de Norton Utilities
 
@@ -80,6 +80,131 @@
 
 > Si no aparece el Mouse en la pantalla o tiene problemas de desplazamiento, ve a INICIO / CONFIGURACION / PANEL DE CONTROL / MOUSE. Los indicadores que aparecen a lo largo de la ventana del Mouse te permitirán controlar las funciones del Mouse. 
 
-**_16°¿Mi computador se calienta demasiado?
+**_16°¿Cuáles son el proceso para solucionar un problema?_**
 
->
+> 1 Análisis del Problema. En la fase de análisis en el proceso de programación se determina que hace el programa. Esta fase requiere una clara definición donde se contemple exactamente lo que debe hacer el programa y el resultado o solución deseada. Dado que se busca una solución se precisan especificaciones de entrada y salida.
+
+> 2 Diseño del Algoritmo. En la fase de diseño se determina como hace el programa la tarea solicitada. Los métodos utilizados para el proceso del diseño se basan en el conocido divide y vencerás: la resolución de un problema complejo se realiza dividiendo el problema en subproblemas y a continuación dividir estos en otros de nivel mas bajo, hasta que sea implementada una solución en la computadora. Este método se conoce técnicamente como diseño descendente (top-down) o modular.
+
+> 3 Implementación del Algoritmo. Para implementar un algoritmo en la computadora, se debe ejecutar los siguientes pasos: Codificación y documentación, Compilación y ejecución, Verificacion y finalmente la Depuración.
+
+**_17°¿Cuáles son 5 Códigos de Error de Redes?_**
+
+> 1.-14 La conexión se ha eliminado o reconectado.
+
+> 2.-600 Hay una operación pendiente. Puede haberse modificado la configuración del módem sin reiniciar Windows.
+
+> 3.- 601 No es válido el indicador de puerto. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
+
+> 4.-602 El puerto ya está abierto. Otro programa está utilizando el módem.
+
+> 5.-603 Las configuraciones del búfer (espacio disponible en el equipo para acceder al módem) son demasiado pequeñas. Puede haberse modificado la configuración de un módem sin reiniciar Windows.
+
+**_17°¿Cuándo debes cambiar componentes de una pc?_**
+
+> Si tu CPU tiene una antigüedad mayor a tres años no la actualices, porque no compensa. Mejor ahorra y actualiza el ordenador al completo, ya que aunque adquiras un equipo muy básico ofrecerá un rendimiento por encima del que tienes actualmente.
+
+> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo básico – por ejemplo AMD Athlon II de entrada o Intel Core i3 – puede ser interesante aprovechar la placa para añadirle un nuevo microprocesador de segunda mano.
+
+> Si tu CPU tiene una antigüedad menor a tres años y además es un equipo de gama media o alta – AMD Phenom II o Intel Core i5 o i7 – lo más probable es que no necesites una actualización de la CPU, ya que todos estos modelos se comportan excelentemente
+
+**_18°¿Qué se debe actualizar y/o cambiar en una pc?_**
+
+> Microprocesador
+
+> Memoria RAM
+
+> tarjeta gráfica
+
+> Almacenamiento (DISCO DURO)
+
+**_19°¿Cual es el procedimiento para realizar un diagnostico de fallas en el hardware?_**
+
+>Poseer un Auto-Control de la Situación
+
+> Llevar acabo Primero el procedimiento más sencillo
+
+> Sistema Muerto (no Arranca)
+
+> Determina si la computadora está recibiendo Corriente Eléctrica
+
+> Cotejar la fuente de potencia de la Computadora
+
+> Verificación de las conexiones de la tarjeta del sistem
+
+> inspección interna de los cables que suplen corriente Eléctrica directamente la maquina y realizar varias pruebas
+
+> Instalar una Tarjeta de video al Sistema
+
+> Reinstalar un componente de la Computadora a la vez para detectar las fallas 
+
+> Reinicie la Máquina (“Reboot” o “Restart”)
+
+> Trate de delimitar su problem
+
+> Dispositivo y Lugar de trabajo
+
+> Determinar si el problema es de Programación (“Software”) o de Equipo (“Hardware”):
+
+> Localizar problemas de Programación (“Software”)
+
+> Determinar el programa más recientemente instalado
+
+> Reinstalar programa o aplicación
+
+**_20°¿Que hacer si el orenador va lento?_**
+
+> descargar una versión del sistema operativo más avanzada de unos 64 bits aproximadamente.
+
+**_21°¿SI hace ruidos extraños la pc?
+
+> Te recomendamos abrir tu ordenador y hacerte con un trapo seco y con un spray de aire comprimido. Limpia todo el interior a fondo y presta una especial atención a la zona del ventilador.
+
+**_22°¿Como actualizar el sistema operativo?
+
+> La solución a este problema dependerá del tipo de ordenador así como del sistema operativo, pero una de las principales razones es que no se dispone de una buena conexión a Internet, y es que para poder realizar la actualización es indispensable estar conectado a la red.
+
+**_23°¿Si el internet va lento?_**
+
+> Si aun así tu problema persiste, es posible que tu tarjeta de red esté estropeada, por lo que tendrías que hacerte con una nueva. Y para salir de dudas, asegúrate de que no dispongas de programas que se encuentren compartiendo archivos vía P2P como los Torrent, ya que estos quitan un importante ancho de banda
+
+**_24°¿Se reinicia el ordenador automaticamente?_**
+
+> Si tu ordenador se reinicia solo, esto se debe bien a que está infectado por algún tipo de virus que provoca un reinicio que se escapa de tu control, o a que hay cualquier tipo de error en tu sistema operativo que demanda el reinicio.
+
+**_25°¿El ordenador no se enciende?_**
+
+> Quizás hables de algún tipo de problema de arranque, pero también es posible que esté fallando la fuente de alimentación.
+
+**_25°¿Problemas con la pantalla del portátil?_**
+
+> A veces el ordenador se enciende, pero se money casino games queda la pantalla negra. Puede que simplemente sea que se haya configurado para abrirse en un monitor externo, pero también puede que se haya averiado la iluminación.
+
+**_26°¿El ratón y el teclado no funcionan?_**
+
+> Puede que sea sólo una mala conexión o necesites limpiar la rueda de tu mouse. Para eso no hace faltar reparar (evidentemente), pero también puede que se haya averiado el puerto o se haya torcido el conector.
+
+**_27°¿Mi lector de CDs no reconoce los discos?_**
+
+> Si no te deja leer CDs, tienes un problema. Puede que la dificultad esté en que el disco esté sucio o rayado, haya un problema de drivers o que realmente esté dañado
+
+**_28°¿Problemas con la tarjeta gráfica?_**
+
+> Al margen de los problemas de drivers, si tu tarjeta está integrada, siempre puede haber problemas ligados al calentamiento general o el correcto funcionamiento de la placa base.
+
+**_29°¿Problemas con los ventiladores de tu PC?_**
+
+> A veces están sucios o averiados, hacen un ruido anormal al arrancar el ordenador o directamente no se encienden. Todo esto son signos de que necesitan abrir la carcasa y hacer tareas de mantenimiento informático.
+
+**_30°¿Problemas con la RAM?_**
+
+> Puede ser que un slot de la RAM no está encajando correctamente,
+
+**_31°¿Computadora infectada con virus?_**
+
+>Tener un antivirus instalado que te alertará sobre los archivos que descargás. Si sospechas que tu computadora está infectada, llevala a un técnico para que te ayude a eliminar el virus.
+
+**_32°¿La temida pantalla azul?_**
+
+> Generalmente viene acompañado de un texto que indica el código de error al que corresponde y sirve como referencia para saber qué pasó. Usualmente indica un problema serio, que puede estar relacionado con el hardware o el driver.
+
