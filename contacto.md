@@ -11,7 +11,7 @@ E-mail: <input type="text" name="email"><br>
 No. Telefonico: <input type="text" name="no. telefonico"><br>
 Fecha de servicio: <input type="date" id="birthday" name="birthday">
 
- <input type="submit">
+<input type="submit">
 </form>
 
  <label for="vol">Calificacion ( 1 al 10):</label>
