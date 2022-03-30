@@ -2,13 +2,15 @@
 
 ## CONTACTOS
 
-**_FORMS_**
+**_DATOS DEL CLIENTE_**
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
 Nombre: <input type="text" name="name"><br>
 Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 No. Telefonico: <input type="text" name="no. telefonico"><br>
+<input type="tel">
+Problrma de tu equipo
 <input type="submit">
 
 </form>
