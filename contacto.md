@@ -13,7 +13,7 @@ Fecha de servicio: <input type="date" id="birthday" name="birthday">
 <input type="submit">
 </form>
 
- <label for="vol">Calificacion ( 1 and 10):</label>
+ <label for="vol">Calificacion ( 1 al 10):</label>
   <input type="range" id="vol" name="vol" min="0" max="50">
   <input type="submit" value="Submit">
 
