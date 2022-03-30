@@ -5,9 +5,11 @@
 **_FORMS_**
 
 <form action="https://formspree.io/f/mrgjaqja" method="post">
-Name: <input type="text" name="name"><br>
+Nombre: <input type="text" name="name"><br>
+Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
+
 </form>
 
 **_Correo  Electronico_**
