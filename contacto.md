@@ -13,12 +13,17 @@ Fecha de servicio: <input type="date" id="birthday" name="birthday">
 <input type="submit">
 </form>
 
+ <label for="vol">Calificacion ( 1 and 10):</label>
+  <input type="range" id="vol" name="vol" min="0" max="50">
+  <input type="submit" value="Submit">
+
 **_Correo  Electronico_**
 
 > fix_sistema555@gmail.com
 
 **_Numers de la empresa_**
 
-> 5523467303
+> 5523467303 
 > 5647352893
 > 5589930951
+   
