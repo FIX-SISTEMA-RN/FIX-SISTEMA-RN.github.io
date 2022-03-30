@@ -10,8 +10,6 @@ Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 No. Telefonico: <input type="text" name="no. telefonico"><br>
 <input type="tel">
-Problema de tu equipo: <input type="text" name="problema de tu equipo"><br>
- 
 <input type="submit">
 </form>
 
