@@ -9,7 +9,6 @@ Nombre: <input type="text" name="name"><br>
 Apellidos: <input type="text" name="apellidos"><br>
 E-mail: <input type="text" name="email"><br>
 No. Telefonico: <input type="text" name="no. telefonico"><br>
-<input type="tel">
 <input type="submit">
 </form>
 
